@@ -33,7 +33,7 @@ The system uses motion data from the MPU6050 to detect human falls in real time.
 
 - **Dataset:** SisFall dataset
 - **Feature extraction:** 294 → optimized subset
-- **Model:** CNN / MLP (quantized for embedded inference)
+- **Model:**  MLP (quantized for embedded inference)
 - **Deployment:** TensorFlow Lite Micro on STM32
 
 ---
