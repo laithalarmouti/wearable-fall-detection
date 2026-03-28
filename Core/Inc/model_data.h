@@ -5,8 +5,6 @@
 extern "C" {
 #endif
 
-//extern const unsigned char fall_detection_cnn_quant_tflite[];
-//extern const unsigned int fall_detection_cnn_quant_tflite_len;
 extern const unsigned char fall_detection_model_tflite[];
 extern const unsigned int fall_detection_model_tflite_len;
 #ifdef __cplusplus
